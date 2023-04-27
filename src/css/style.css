@@ -109,7 +109,7 @@ main {
 
   @media screen and (min-width: 700px) {
     .section1 #profile_picture  {
-        max-width: 40vw;
+        max-width: 30vw;
         max-height: 100vh;
         margin-bottom: 4vh;
     
